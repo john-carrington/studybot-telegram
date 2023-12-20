@@ -1,4 +1,4 @@
-<img src="https://github.com/john-carrington/studybot-telegram/assets/153770715/9d1f39b8-736b-45d0-a957-06caad889eff" width="200" height="200">
+<img src="https://github.com/john-carrington/studybot-telegram/assets/153770715/c21ecffa-db3a-4f1c-876e-d890b9f8d0a0" width="200" height="200">
 
 **Демо-версия проекта «Интеллекутальный помощник для студентов»**
 Добавить:
@@ -8,4 +8,5 @@
   - рассылку [x]
   - меню настроек [ ]
   - уведомление об изменении баллов [ ]
+
 
